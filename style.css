@@ -1,0 +1,21 @@
+h1{color: white;
+    
+}
+div{
+    border: 2px solid rgb(84, 37, 112);
+    background-color:rgba(144, 8, 223, 0.911) ;
+    padding: 25px;
+    padding-top:50px ;
+    padding-bottom: 10px;
+    margin: 0px;
+    border-radius: 2px;
+}
+img{
+    height: 2cm;
+    width: 2cm;
+    border-radius: 25px;
+    
+}
+div2{
+    
+}
